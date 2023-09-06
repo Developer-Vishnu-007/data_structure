@@ -1,4 +1,4 @@
-#include <iostream> //hea file
+#include <iostream> //header file
 using namespace std;
 
 int main() {
