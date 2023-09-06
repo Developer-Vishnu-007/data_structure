@@ -1,4 +1,4 @@
-#include <iostream>
+#include <iostream> //hea file
 using namespace std;
 
 int main() {
@@ -11,5 +11,7 @@ int main() {
 multiline 
 comment */
 
-/*White spaces are */
+/*White spaces are not considered in c++ syntax while executing*/
+
+
 
