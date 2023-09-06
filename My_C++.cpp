@@ -11,5 +11,5 @@ int main() {
 multiline 
 comment */
 
-/*White*/
+/*White spaces*/
 
