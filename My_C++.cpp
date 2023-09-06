@@ -1,5 +1,5 @@
 #include <iostream> //header file io stands for managing input & output
-using namespace std;
+using namespace std; // namespace
 
 int main() {
   cout << "Hello World!";
