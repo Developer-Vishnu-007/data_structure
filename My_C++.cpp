@@ -13,5 +13,10 @@ comment */
 
 /*White spaces are not considered in c++ syntax while executing*/
 
+int main()
+{
+  cout<< "its we v here";
+
+
 
 
