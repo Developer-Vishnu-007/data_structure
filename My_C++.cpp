@@ -17,7 +17,7 @@ int main()
 {
   cout<< "its we v here";
   int num;
-  num
+  num =
 return 0;
 }
 
