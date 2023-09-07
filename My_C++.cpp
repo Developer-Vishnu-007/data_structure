@@ -21,7 +21,7 @@ int main()
   cout<<num;
 
   int Age = 20;
-cout<< "I am " << myAge << " years old.";
+cout<< "I am " << Age << " years old.";
   
 return 0;
 }
