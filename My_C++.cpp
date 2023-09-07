@@ -18,6 +18,7 @@ int main()
   cout<< "its we v here";
   int num;
   num = 5;
+  cout<<num;
   
 return 0;
 }
