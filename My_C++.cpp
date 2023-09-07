@@ -16,7 +16,7 @@ comment */
 int main()
 {
   cout<< "its we v here";
-  int
+  int num;
 return 0;
 }
 
