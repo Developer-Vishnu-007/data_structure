@@ -19,6 +19,9 @@ int main()
   int num;
   num = 5;
   cout<<num;
+
+  int Age = 35;
+cout << "I am " << myAge << " years old.";
   
 return 0;
 }
