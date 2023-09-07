@@ -20,7 +20,7 @@ int main()
   num = 5;
   cout<<num;
 
-  int Age = 35;
+  int Age = 20;
 cout << "I am " << myAge << " years old.";
   
 return 0;
