@@ -18,6 +18,11 @@ int main()
   cout<<num;
   int Age = 20;
 cout<< "I am" << Age << "years old";
+
+int x = ;
+int y = 6;
+int sum = x + y;
+cout << sum;
   
 return 0;
 }
