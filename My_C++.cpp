@@ -10,7 +10,6 @@ int main() { //its a function
   a 
 multiline 
 comment */
-
 /*White spaces are not considered in c++ syntax while executing*/
 
 int main()
