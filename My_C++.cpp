@@ -11,7 +11,6 @@ int main() { //its a function
 multiline 
 comment */
 /*White spaces are not considered in c++ syntax while executing*/
-
 int main()
 {
   cout<< "its we v here";
