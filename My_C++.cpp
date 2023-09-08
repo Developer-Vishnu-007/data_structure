@@ -5,7 +5,6 @@ int main() { //its a function
   cout << "Hello World!"; // cout is the output keyword
   return 0;
 } //it is a single line comment
-
 /* Its 
   a 
 multiline 
