@@ -19,7 +19,7 @@ int main()
   int Age = 20;
 cout<< "I am" << Age << "years old";
 
-int x = ;
+int x = 10;
 int y = 6;
 int sum = x + y;
 cout << sum;
