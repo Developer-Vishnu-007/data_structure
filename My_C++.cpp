@@ -15,7 +15,7 @@ int main()
   cout<< "its we v here";
   int num ;
   num = 6;
-  cout<<num ;
+  cout<< num ;
   int Age = 26;
 cout<< "I am" << Age << "years old";
 
