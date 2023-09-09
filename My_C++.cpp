@@ -23,7 +23,6 @@ int x = 10;
 int y = 10;
 int sum = x+y;
 cout <<"addition"<<sum;
-
 return 0;
 }
 
