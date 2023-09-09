@@ -16,7 +16,7 @@ int main()
   int num;
   num = 6;
   cout<<num;
-  int Age = 2;
+  int Age = 26;
 cout<< "I am" << Age << "years old";
 
 int x = 10;
