@@ -1,5 +1,5 @@
 #include <iostream>//header file io stands for managing input & output
-using namespace std;// namespace is the library used for acessing objects
+using namespace std;//namespace is the library used for acessing objects
 int main() 
 {//its a function
   cout << "Hello World!";//cout is the output keyword
