@@ -12,8 +12,8 @@ comment */
 /*White spaces are not considered in c++ syntax while executing*/
 int main()
 {
-  cout<< "its we v here";
-  int num ;
+  cout<< "its we v here"; 
+  int num ; //defining 
   num = 6;
   cout<< num ;
   int Age = 26;
