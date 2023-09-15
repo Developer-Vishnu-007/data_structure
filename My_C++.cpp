@@ -13,7 +13,7 @@ comment */
 int main()
 {
   cout<< "its we v here"; 
-  int num ; //defining 
+  int num ; //defining a variable
   num = 6;
   cout<< num ;
   int Age = 26;
