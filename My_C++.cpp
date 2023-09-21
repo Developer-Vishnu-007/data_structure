@@ -23,7 +23,7 @@ int x = 10;
 int y = 10;
 int sum = x+y; //operation
 cout <<"addition"<<sum;
-return 0;
+return 0; //return keyword
 }
 
 
