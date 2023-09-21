@@ -1,4 +1,4 @@
-#include <iostream>//header file io stands for managing input & output
+#include <iostream>//header file "io" stands for managing input & output
 using namespace std;//namespace is the library used for accessing objects
 int main() 
 {//its a function
