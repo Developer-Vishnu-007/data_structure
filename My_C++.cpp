@@ -5,7 +5,7 @@ int main()
   cout <<"Hello World!";//cout is the output keyword
   return 0;
 }//it is a single line comment 
-/* Its 
+/*Its 
 a 
 multiline 
 comment */
