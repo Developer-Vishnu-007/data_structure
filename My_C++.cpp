@@ -17,7 +17,6 @@ int main()
   num = 6;// assigning a value to the variable which is a integer
   cout<< num ; // cout means output
   int Age = 26;
-cout<< "I am" << Age << "years old";
 
 int x = 10;
 int y = 10;
