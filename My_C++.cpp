@@ -8,7 +8,7 @@ int main()
 /*Its 
 a 
 multiline 
-comment */
+comment*/
 /*White spaces are not considered in c++ syntax while executing*/
 int main()
 {
