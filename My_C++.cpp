@@ -22,6 +22,9 @@ int x = 10;
 int y = 10;
 int sum=x+y; // operation
 cout <<"addition"<<sum;
+
+int x = 5, y = 6, z = 50;
+cout << x + y + z;
 return 0; // return keyword since we use int main as function
 }
 
