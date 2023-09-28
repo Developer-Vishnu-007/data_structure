@@ -19,7 +19,7 @@ int main()
   int Age=26;
 
 int x=10;
-int y = 10;
+int y =10;
 int sum=x+y; // operation
 cout <<"addition"<<sum;
 
