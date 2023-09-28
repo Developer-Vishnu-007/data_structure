@@ -13,7 +13,7 @@ comment*/
 int main()
 {
   cout<<"its we v here"; 
-  int num ;// defining a variable with use case in integer
+  int num ;//defining a variable with use case in integer
   num = 6;// assigning a value to the variable which is a integer
   cout<< num ; // cout means output
   int Age = 26;
