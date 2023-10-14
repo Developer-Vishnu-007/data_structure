@@ -1,2 +1,2 @@
 Types of Data Structures in C++
-1. Linear Data
+1. Linear Data Structures 
