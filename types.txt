@@ -3,4 +3,7 @@
    a) Static Data Structures 
       i)Array
    b) Dynamic Data Structures
+      i)Queue
+      ii)
+      iii)
 2. Non Linear Data Structures 
