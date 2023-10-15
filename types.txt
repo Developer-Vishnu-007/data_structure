@@ -1,5 +1,5 @@
  Types of Data Structures in C++
 1. Linear Data Structures 
-a) Static Data Structures 
+   a) Static Data Structures 
 b) Dynamic Data Structures
 2. Non Linear Data Structures 
