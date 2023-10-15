@@ -4,6 +4,6 @@
       i)Array
    b) Dynamic Data Structures
       i)Queue
-      ii)
+      ii)Stack
       iii)
 2. Non Linear Data Structures 
