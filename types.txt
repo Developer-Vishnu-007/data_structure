@@ -5,5 +5,5 @@
    b) Dynamic Data Structures
       i)Queue
       ii)Stack
-      iii)
+      iii)Linked List
 2. Non Linear Data Structures 
