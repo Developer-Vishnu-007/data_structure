@@ -12,7 +12,7 @@ int main(){
 // Accessing and printing values from the array
     std::cout<<"Elements of the array:";
     for (int i = 0; i < 5; ++i){
-        std::cout<< myArray[i] << " ";
+        std::cout<<myArray[i] << " ";
     }
     
     return 0;
