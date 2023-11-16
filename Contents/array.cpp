@@ -1,6 +1,6 @@
 /* #include<iostream>
 
-int main() {
+int main(){
     // Creating an array of integers with a specified size (in this case, 5)
     int myArray[5]; 
 
