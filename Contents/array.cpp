@@ -8,7 +8,7 @@ int main(){
     myArray[1]=20;
     myArray[2]=30;
     myArray[3]=40;
-    myArray[4] = 50;
+    myArray[4]= 50;
 
     // Accessing and printing values from the array
     std::cout << "Elements of the array: ";
