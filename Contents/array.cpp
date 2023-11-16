@@ -6,7 +6,7 @@ int main(){
     // Assigning values to the elements of the array
     myArray[0]=10;
     myArray[1]=20;
-    myArray[2]= 30;
+    myArray[2]=30;
     myArray[3] = 40;
     myArray[4] = 50;
 
