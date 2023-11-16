@@ -1,4 +1,4 @@
-/* #include <iostream>
+/* #include<iostream>
 
 int main() {
     // Creating an array of integers with a specified size (in this case, 5)
