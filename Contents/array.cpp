@@ -23,7 +23,7 @@ int main()
 
 /* 
 #include<iostream>
-#include <array>
+#include<array>
 
 int main() {
     // Creating an array of integers with a size of 5 using std::array
