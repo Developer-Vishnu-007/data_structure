@@ -28,7 +28,7 @@ int main()
 int main() 
 {
     // Creating an array of integers with a size of 5 using std::array
-    std::array<int,5>myArray= {10, 20, 30, 40, 50};
+    std::array<int,5>myArray={10, 20, 30, 40, 50};
 
     // Accessing and printing values from the array
     std::cout << "Elements of the array: ";
