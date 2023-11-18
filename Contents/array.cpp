@@ -25,7 +25,8 @@ int main()
 #include<iostream>
 #include<array>
 
-int main() {
+int main() 
+{
     // Creating an array of integers with a size of 5 using std::array
     std::array<int, 5> myArray = {10, 20, 30, 40, 50};
 
