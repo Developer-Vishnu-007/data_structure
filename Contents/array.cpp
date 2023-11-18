@@ -11,7 +11,7 @@ int main(){
     myArray[4]=50;
 // Accessing and printing values from the array
     std::cout<<"Elements of the array:";
-    for(int i=0; i< 5; ++i){
+    for(int i=0; i<5; ++i){
         std::cout<<myArray[i]<<"";
     }
     
